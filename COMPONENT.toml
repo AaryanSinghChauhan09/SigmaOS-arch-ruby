@@ -3,7 +3,7 @@ name = "SigmaOS-arch-ruby"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-ruby component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
