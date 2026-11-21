@@ -1,4 +1,4 @@
-use arch_ruby::Component;
+use sigmaos_ruby::Component;
 
 #[test]
 fn test_component_new_aaa() {

@@ -1,10 +1,10 @@
 [package]
-name = "arch-ruby"
+name = "sigmaos-ruby"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-ruby component - SigmaOS component"
+description = "SigmaOS SigmaOS-ruby component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-ruby"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-ruby"
 
 [dependencies]
 thiserror = "2"

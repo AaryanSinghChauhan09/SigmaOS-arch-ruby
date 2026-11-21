@@ -1,4 +1,4 @@
-# SigmaOS-arch-ruby
+# SigmaOS-ruby
 
 SigmaOS component repository
 
